@@ -60,6 +60,30 @@
 @@||v20.events.data.microsoft.com^$important
 @@||us-v20.events.data.microsoft.com^$important
 @@||eu-v20.events.data.microsoft.com^$important
+! Instagram
+@@||cdninstagram.com^$important
+@@||instagram.com^$important
+@@||instagram.c10r.facebook.com^$important
+! Snapchat
+@@||story.snapchat.com^$important
+@@||accounts.snapchat.com^$important
+@@||static.snapchat.com^$important
+@@||app.snapchat.com^$important
+@@||cf-st.sc-cdn.net^$important
+! Snapchat Aws
+@@||aws.duplex.snapchat.com^$important
+@@||aws.api.snapchat.com^$important
+@@|aws-proxy-gcp.api.snapchat.com^$important
+@@||aws.api.sc-gw.com^$important
+@@||us-east1-aws.api.sc-gw.com^$important
+! Snapchat api
+@@||us-east4-gcp.api.snapchat.com^$important
+@@||aws.api.snapchat.com^$important
+@@||us-central1-gcp.api.snapchat.com^$important
+@@||aws-proxy-gcp.api.sc-gw.com^$important
+@@||us-east1-aws.duplex.sc-gw.com^$important
+@@||gcp.api.snapchat.com^$important
+@@||us-central1-gcp.api.sc-gw.com^$important
 ! Sonarr TV Soft
 @@||apt.sonarr.tv^$important
 @@||download.sonarr.tv^$important
