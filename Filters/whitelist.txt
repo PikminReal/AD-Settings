@@ -225,9 +225,6 @@
 ! Slack
 @@||slackb.com^$important
 ! Google shopping
-@@||googleadservices.com^$important
-@@||doubleclick.net^$important
-@@||pagead.l.doubleclick.net^$important
 @@||accountsettingsmobile-pa.googleapis.com^$important
 @@||android.clients.google.com^$important
 ! Google
