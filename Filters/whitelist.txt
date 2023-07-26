@@ -130,8 +130,6 @@
 @@||keystone.mwbsys.com^$important
 ! Aliexpress.com
 @@||login.aliexpress.com^$important
-! Adswizz sponsor clips before several podcasts
-@@||npr-news.streaming.adswizz.com^$important
 ! CBS Television Stream
 @@||cbsi.com^$important
 @@||cbsinteractive.hb.omtrdc.net^$important
